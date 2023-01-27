@@ -24,7 +24,7 @@ public class Guide {
      * information stored in binary. Ints are whole numbers. We have named this variable id, since we could use
      * this variable to tell different Guide objects apart.
      */
-    //Hello
+ 
     int id;
 
     /**
